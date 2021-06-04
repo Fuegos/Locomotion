@@ -1,0 +1,9 @@
+{
+  "sizePopulation": 30,
+  "sizeGen": 8,
+  "countCross": 10,
+  "maximumLife": 60,
+  "countMutationEntity": 5,
+  "countMutationGen": 5,
+  "countElite":  5
+}
